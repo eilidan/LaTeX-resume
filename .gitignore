@@ -35,6 +35,7 @@
 *.idx
 *.ilg
 *.ind
+*.synctex(busy)
 
 *.dvi
 *.ps
